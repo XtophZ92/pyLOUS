@@ -6,5 +6,4 @@ setup(name='pyLOUS',
       author='Pieter-Jan Moreels',
       url='https://github.com/NorthernSec/pyLOUS',
       packages=['pyLOUS'],
-      license="Modified BSD license",
-     )
+      license='Modified BSD license')
